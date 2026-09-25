@@ -76,9 +76,9 @@ Permanent demand reduction should enter that portfolio as an option with a gate.
 
 ## Where WattShed fits
 
-WattShed is a working version of the program operating layer. Its national public designer lets a funder test geography, budget, measures, payment terms, and location-appropriate methodology offerings. The wider product implements evidence review, deterministic qualification and payout caps, quote approval, completion clearance, and payment-instruction records. Milam County is the case study used to demonstrate the resident workflow.
+WattShed is a working version of the program operating layer. Its national public designer lets a funder test geography, budget, measures, payment terms, and location-appropriate methodology offerings. The wider product implements evidence review, deterministic qualification and payout caps, quote approval, completion clearance, and payment-instruction records.
 
-The current build does not prove a capacity resource. The nationwide designer is a simulation and the Milam case study keeps settlement simulated. WattShed has no payment processor, does not custody funds, and moves no money.
+The current build does not prove a capacity resource. WattShed has no payment processor and does not custody funds.
 
 That boundary is the point of the next decision. Do not scale a claim. Scale a test.
 

@@ -2,7 +2,7 @@
 
 **Live product: [wattshed.co](https://wattshed.co)**
 
-WattShed is national software for designing and administering residential energy-efficiency rebate programs. A public, no-login designer covers all 50 states and DC, with methodology offerings that vary by location. Milam County, Texas is the case study used to demonstrate the authenticated resident journey. The wider product turns program terms, homeowner evidence, deterministic calculations, and contractor milestones into an auditable operating record.
+WattShed is software that creates, verifies and pays residential energy-efficiency rebates. A public, no-login designer covers all 50 states and DC, with methodology offerings that vary by location. The wider product turns program terms, homeowner evidence, deterministic calculations, and contractor milestones into an auditable operating record.
 
 These notes make the work inspectable without publishing the implementation. They describe the product boundary, methodology, and verification record, not source code, prompts, secrets, or operational security details.
 
